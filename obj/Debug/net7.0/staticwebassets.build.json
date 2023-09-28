@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "h068O7qFU6WBFtLUh4k/t9YtRiSuKy0F3YW2B1q55sM=",
+  "Source": "Atividade 2 Projeto Web LH-PETS",
+  "BasePath": "_content/Atividade 2 Projeto Web LH-PETS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade 2 Projeto Web LH-PETS\\wwwroot",
+      "Source": "Atividade 2 Projeto Web LH-PETS",
+      "ContentRoot": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Codificação Backend\\Atividade 2 Projeto Web LH-PETS\\wwwroot\\",
+      "BasePath": "_content/Atividade 2 Projeto Web LH-PETS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Codificação Backend\\Atividade 2 Projeto Web LH-PETS\\wwwroot\\index.html",
+      "SourceId": "Atividade 2 Projeto Web LH-PETS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Codificação Backend\\Atividade 2 Projeto Web LH-PETS\\wwwroot\\",
+      "BasePath": "_content/Atividade 2 Projeto Web LH-PETS",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

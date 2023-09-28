@@ -1,0 +1,34 @@
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\appsettings.Development.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\appsettings.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\Atividade 2 Projeto Web LH-PETS.staticwebassets.runtime.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\Atividade 2 Projeto Web LH-PETS.exe
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\Atividade 2 Projeto Web LH-PETS.deps.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\Atividade 2 Projeto Web LH-PETS.runtimeconfig.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\Atividade 2 Projeto Web LH-PETS.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\Atividade 2 Projeto Web LH-PETS.pdb
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\System.Data.SqlClient.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\bin\release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.csproj.AssemblyReference.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.AssemblyInfoInputs.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.AssemblyInfo.cs
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.csproj.CoreCompileInputs.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets\msbuild.Atividade 2 Projeto Web LH-PETS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets\msbuild.build.Atividade 2 Projeto Web LH-PETS.props
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets\msbuild.buildMultiTargeting.Atividade 2 Projeto Web LH-PETS.props
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets\msbuild.buildTransitive.Atividade 2 Projeto Web LH-PETS.props
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets.pack.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets.build.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\staticwebassets.development.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\scopedcss\bundle\Atividade 2 Projeto Web LH-PETS.styles.css
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.csproj.CopyComplete
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\refint\Atividade 2 Projeto Web LH-PETS.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.pdb
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\Atividade 2 Projeto Web LH-PETS.genruntimeconfig.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade 2 Projeto Web LH-PETS\obj\release\net7.0\ref\Atividade 2 Projeto Web LH-PETS.dll
